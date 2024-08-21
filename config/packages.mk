@@ -5,6 +5,8 @@ PRODUCT_PACKAGES += \
     GameSpace \
     NetworkStackOverlay \
     NoCombinedIconsOverlay \
+    OmniJaws \
+    OmniStyle \
     Panic \
     ParallelSpace \
     RepainterServicePriv \
